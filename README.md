@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Professional Card Astro
 
 "Hi there!, I'm Brian. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
@@ -186,3 +187,7 @@ Feel free to check [Astro documentation](https://docs.astro.build) or jump into 
 ## Contact
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian)
+=======
+# webAstroNode
+Esta es una página utilizando node y astro
+>>>>>>> 24d0a2365f6960e8a15a131fc416a878e4feb04f
